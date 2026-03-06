@@ -84,8 +84,8 @@ transition:0.3s;
 
 /* main */
 main {
-  padding-left: 20px;  /* Espacio fijo a la izquierda */
-  padding-right: 20px; /* Espacio fijo a la derecha */
+  padding-left: 20px;  
+  padding-right: 20px;
 }
 
 /* Imagen */
@@ -134,3 +134,4 @@ footer{
     border-radius: 15px;
 
 }
+
